@@ -5,8 +5,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-    <a href="https://github.com/HybelStudio/stargazers"><img src="https://img.shields.io/github/stars/HybelStudio" alt="Stars Badge"/></a>
-    <a href="https://github.com/HybelStudio/HybelStudio/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HybelStudio/HybelStudio?color=2b9348" alt="License Badge"/></a>
+    <a href="https://github.com/HybelStudio/stargazers"><img src="https://img.shields.io/github/stars/HybelStudio?style=flat-square" alt="Stars Badge"/></a>
+    <img src="https://komarev.com/ghpvc/?username=HybelStudio&style=flat-square&color=blue" alt=""/>
+    <a href="https://github.com/HybelStudio/HybelStudio/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HybelStudio/HybelStudio?color=2b9348&style=flat-square" alt="License Badge"/></a>
 </div>
 
 ---
@@ -21,9 +22,9 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :musical_note: In my free time, I play Music. My main instrument is Piano :musical_keyboard: I also compose music :musical_score:
 
-- :game_die: I also love Dungeons & Dragons and Magic: The Gathering :magic_wand:
+- :game_die: I also love Dungeons & Dragons and Magic: The Gathering :magic_wand: as well as gaming :video_game:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brage_Ingebrigtsen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brage-ingebrigtsen-1b97a025a/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Brage_Ingebrigtsen-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brage-ingebrigtsen-1b97a025a/)
 
 ---
 
