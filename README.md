@@ -5,9 +5,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=HybelStudio&style=flat-square&color=blue" alt=""/>
+    <a href="https://github.com/HybelStudio/stargazers"><img src="https://img.shields.io/github/stars/HybelStudio" alt="Stars Badge"/></a>
+    <a href="https://github.com/HybelStudio/HybelStudio/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HybelStudio/HybelStudio?color=2b9348" alt="License Badge"/></a>
 </div>
-
 
 ---
 
