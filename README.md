@@ -19,7 +19,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :seedling: Always exploring new Technologies. Currently, interested in Cloud Computing :cloud: with Azure <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Java" alt="Java" width="16" height="16"/>&nbsp;
 
 
-- :musical_note: In my free time, I play Music My main instrument is Piano :musical_keyboard: I also compose music for games :musical_score:
+- :musical_note: In my free time, I play Music. My main instrument is Piano :musical_keyboard: I also compose music :musical_score:
 
 - :game_die: I also love Dungeons & Dragons and Magic: The Gathering :magic_wand:
 
